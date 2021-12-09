@@ -43,4 +43,4 @@
     2021-12-09 17:26:36,337 :: INFO :: Best model: RandomForestClassifier(max_features='sqrt')
     2021-12-09 17:26:36,337 :: INFO :: Best accuracy score: 0.56
 
-Результат автоматического обучения(наилучшая модель) сохраняется в файл .pickle в дирректорию OUTPUT_PATH.
+Результат автоматического обучения(наилучшая модель) сохраняется в файл .pickle в директорию OUTPUT_PATH.
